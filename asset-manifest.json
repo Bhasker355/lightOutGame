@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lightOutGame/static/css/main.c9b8ea72.css",
+    "main.js": "/lightOutGame/static/js/main.2ca27e6a.js",
+    "index.html": "/lightOutGame/index.html",
+    "main.c9b8ea72.css.map": "/lightOutGame/static/css/main.c9b8ea72.css.map",
+    "main.2ca27e6a.js.map": "/lightOutGame/static/js/main.2ca27e6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9b8ea72.css",
+    "static/js/main.2ca27e6a.js"
+  ]
+}
