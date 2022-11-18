@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.sing-box {
+  width: 75px;
+  height: 75px;
+
+  border: 1px solid black;
+}
+.row {
+  display: flex;
+}
+.LightsOut {
+  border: 1px solid black;
+  border-radius: 10px;
+  z-index: 100;
+  overflow: hidden;
+  background-color: rgb(82, 77, 77);
+}
+.blue {
+  background-color: blue;
+}
